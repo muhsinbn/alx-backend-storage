@@ -3,7 +3,7 @@
 ALX-Backend Storage is a part of the ALX program, which is designed to provide intensive, project-based training in software engineering and related fields. This particular module, "Backend Storage," would focus on the various aspects of data storage in backend systems, an essential component of modern web and application development.
 
 ## Concept:
-*For this project, we expect you to look at this concept:
+*For this project, we expect you to look at this concept*:
 
 [Advanced SQL](https://intranet.alxswe.com/concepts/555)
 
